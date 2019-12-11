@@ -1,2 +1,13 @@
 {
+  "users": {
+    "hello": {
+      "passwordHash": "$2a$10$758d8CVE4xQG6jtJnWH4ruNJMJ0pNr3WyvCdg4XAiKSuEEklgFI16"
+    },
+    "jake": {
+      "passwordHash": "$2a$10$zkM9NIuuaYJ9/4i8E5uN5e4YJAjW5No0Ln5H.ZNhuVvf/7vu5DQj."
+    },
+    "keef": {
+      "passwordHash": "$2a$10$n74B0qiyhf5l/2RCW914iOCZ23hcN1IemelhGWhD9VKmkzCOye2dy"
+    }
+  }
 }
